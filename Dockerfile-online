@@ -1,4 +1,4 @@
-FROM java:8u92-jre-alpine
+FROM harbor.kubernetes-devops.cn/library/java:8u92-jre-alpine
 
 WORKDIR /home
 
